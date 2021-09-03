@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+# 다음 라인을 추가
+/.idea/misc.xml
